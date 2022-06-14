@@ -4,9 +4,6 @@
 
 l’objectif est de créé une api à partir du wrapper du 1er TP, lancer l’api sur docker et automatiser la publication les push sur DockerHub.
 
- 
-
-# Les repositories du TP
 
 ## GitHub repository
 
@@ -16,7 +13,6 @@ l’objectif est de créé une api à partir du wrapper du 1er TP, lancer l’ap
 
 [Docker Hub](https://hub.docker.com/repository/docker/mustaben/efrei-devops-tp2)
 
-# Création de l’Api
 
 ### L’api en Python
 
